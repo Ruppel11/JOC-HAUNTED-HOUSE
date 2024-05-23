@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://mi3rdbkwtale"
+path="res://.godot/imported/Mu╠üsica Instrumental de Miedo, Terror, Suspenso, Misterio.mp3-da3abc920366ac7848b88a76f5ca0a36.mp3str"
+
+[deps]
+
+source_file="res://Mu╠üsica Instrumental de Miedo, Terror, Suspenso, Misterio.mp3"
+dest_files=["res://.godot/imported/Mu╠üsica Instrumental de Miedo, Terror, Suspenso, Misterio.mp3-da3abc920366ac7848b88a76f5ca0a36.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
